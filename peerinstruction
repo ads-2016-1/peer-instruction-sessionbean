@@ -1,0 +1,46 @@
+Peer instruction - Session Beans
+Atividades
+Leia o material indicado adiante. Os objetivos de aprendizagem são fornecidos adiante também. É o que se espera que você saiba fazer depois do estudo.
+Responda aos exercícios chamados "Preparação para teste de leitura". Eles não serão corrigidos mas servirão de preparação para o teste de leitura feito em aula.
+Fora da sala de aula, forme grupos alunos (sugestão de 2~3 alunos) e prepare uma resposta para o "Teste de objetivos de aprendizagem". Cada integrante do grupo deve levar a (sua) resposta a esse teste para a aula.
+A entrega é realizada, compartilhando (via Google Drive) sua resposta com o professor (sousajob@gmail.com) e adicionando o link de sua resposta neste documento. 
+O projeto deve ser compartilhados em um repositório no github com o professor (ricardojob).
+Prazo para entrega: 03 de junho de 2015, às 7hs.
+Na sala de aula (2,5 horas):
+[10 minutos] Tolerância de chegada na sala de aula
+[20 minutos] Teste de leitura
+[30 minutos] Mudar os grupos. Discutir e aprimorar seu conhecimento sobre o "Teste de objetivos de aprendizagem". 
+[90 minutos] Um aluno é escolhido para apresentar a solução de 1 problema do "Teste de objetivos de aprendizagem". 
+Revisão do conteúdo.
+Material para leitura antes da aula
+Material da aula
+Capítulo 11 do livro Enterprise Javabeans 3.0. [Burke, B. 2007] - (Leitura obrigatória)
+Capítulos 2 e 3 do livro EJB3 Em Ação. [Derek, L. 2008] - (Leitura obrigatória)
+Capítulo 7 do livro Introdução à Plataforma Java EE 6 com GlassFish. [Goncalvez, A. 2011]
+
+
+Objetivos de aprendizagem
+Possuir um overview sobre a arquitetura (EJB) Enterprise JavaBeans.
+Diferenciar e identificar os componentes da arquitetura EJB.
+Compreender as caraterísticas e ciclo de vida de um Session Bean.
+Desenvolver uma aplicação corporativa com múltiplas interfaces de acesso.
+Preparação para teste de leitura
+
+O que é um componente de software?
+Descreva o que é uma aplicação corporativa. Dê exemplos onde seria útil aplicações que abordam esta arquitetura.
+Em termos arquiteturais, quais as diferenças entre uma aplicação corporativa e uma web?
+Teste de objetivos de aprendizagem
+
+Defina a arquitetura Enterprise JavaBeans (EJB). Procure usar as referências indicadas.
+Quais as principais vantagens no uso da arquitetura EJB?
+O que é estado conversacional? 
+Quanto aos Session Beans, há três componentes responsáveis pela lógica de negócio na arquitetura EJB. Diferencie-os e dê um exemplo de uso.
+Descreva sobre os ciclos de vida e mecanismos de concorrência utilizados pelos Session Beans. 
+Crie um quadro comparativo com os principais métodos de callback, descrevendo-os e dando um exemplo de sua aplicabilidade.
+Crie um quadro comparativo explicando como funciona o nome JNDI portável de um Session Bean. É importante destacar sobre os escopos e como é o formato destes nomes.
+Sobre os tipos de acesso aos Session Beans, descreva e diferencie-os.
+Em um Singleton há dois tipos de controle de concorrência. Explique e diferenciando-os.
+Implemente uma aplicação corporativa com dois cliente: web e desktop. 
+A aplicação deve possuir dois requisitos: cadastrar e listar uma entidade Pessoa.
+Quanto a persistência, deve ser utilizado JDBC.
+
