@@ -6,9 +6,4 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>peer-instruction-sessionbean</name>
-  <modules>
-    <module>peer-instruction-sessionbean-ear</module>
-    <module>peer-instruction-sessionbean-web</module>
-    <module>peer-instruction-sessionbean-ejb</module>
-  </modules>
 </project>
